@@ -1,0 +1,21 @@
+{
+  "name": "simple-color-picker",
+  "version": "0.1.0",
+  "description": "simple-color-picker",
+  "keywords": [
+    "simple-color-picker"
+  ],
+  "scripts": {
+    "start": "start http://localhost:3000 & node ./bin/www",
+    "dev": "start http://localhost:3000 & nodemon ./bin/www"
+  },
+  "author": "William Lim",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0"
+  }
+}
