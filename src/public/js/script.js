@@ -17,4 +17,4 @@ function pick (event) {
   color.style.background = rgba
   color.textContent = rgba
 }
-canvas.addEventListener('mousemove', pick)
+canvas.addEventListener('click', pick)
