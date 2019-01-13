@@ -11,11 +11,10 @@
   },
   "author": "William Lim",
   "license": "MIT",
-  "devDependencies": {
-    "nodemon": "^1.11.0"
-  },
+  "devDependencies": {},
   "dependencies": {
-    "express": "^4.14.0",
-    "express-handlebars": "^3.0.0"
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "nodemon": "^1.18.9"
   }
 }
